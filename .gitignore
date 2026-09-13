@@ -1,0 +1,6 @@
+tmp/
+.DS_Store
+Thumbs.db
+node_modules/
+.sites-runtime/
+assets/original-presentation.pdf
